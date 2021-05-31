@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>time@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tipuri-de-retete" transform="translate(-600.000000, -537.000000)" fill="#3E3E3E" fill-rule="nonzero">
+            <g id="Galerie-totala" transform="translate(173.000000, 200.000000)">
+                <g id="Galerie-1" transform="translate(1.000000, 0.000000)">
+                    <g id="Bitmap" transform="translate(312.000000, 0.000000)">
+                        <g id="Text" transform="translate(0.000000, 334.000000)">
+                            <g id="time" transform="translate(114.000000, 3.000000)">
+                                <path d="M5,0 C2.243,0 0,2.243 0,5 C0,7.757 2.243,10 5,10 C7.757,10 10,7.757 10,5 C10,2.243 7.757,0 5,0 Z M5,9.66666667 C2.42683333,9.66666667 0.333333333,7.57316667 0.333333333,5 C0.333333333,2.42683333 2.42683333,0.333333333 5,0.333333333 C7.57316667,0.333333333 9.66666667,2.42683333 9.66666667,5 C9.66666667,7.57316667 7.57316667,9.66666667 5,9.66666667 Z" id="Shape"></path>
+                                <path d="M5,1 C4.908,1 4.83333333,1.0745 4.83333333,1.16666667 L4.83333333,5 L2.33333333,5 C2.24133333,5 2.16666667,5.0745 2.16666667,5.16666667 C2.16666667,5.25883333 2.24133333,5.33333333 2.33333333,5.33333333 L5,5.33333333 C5.092,5.33333333 5.16666667,5.25883333 5.16666667,5.16666667 L5.16666667,1.16666667 C5.16666667,1.0745 5.092,1 5,1 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
